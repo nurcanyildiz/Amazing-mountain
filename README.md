@@ -1,0 +1,1 @@
+The "Amazin Mountain" project is followed by tutorial on youtube.The project has done with CSS grid.
